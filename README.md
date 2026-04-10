@@ -1,4 +1,4 @@
-# Manawariexport default function BeachResortHero() { return ( <section className="relative min-h-screen overflow-hidden bg-slate-950 text-white"> {/* Background image */} <div className="absolute inset-0 bg-cover bg-center" style={{ backgroundImage: "url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80')", }} />
+# Manawari export default function BeachResortHero() { return ( <section className="relative min-h-screen overflow-hidden bg-slate-950 text-white"> {/* Background image */} <div className="absolute inset-0 bg-cover bg-center" style={{ backgroundImage: "url('https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1600&q=80')", }} />
 
 {/* Dark overlay */}
   <div className="absolute inset-0 bg-black/65" />
